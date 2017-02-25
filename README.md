@@ -7,7 +7,7 @@
 https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/
 
 ## Usage
-This is a simple CLI program, written in node.js, that iterates through a given range of integers and prints out the appropriate response.
+This is a simple CLI program, written in node.js, that iterates through a given range of integers and prints out the appropriate results.
 ```sh
 $ node fizzbuzz.js [-start NUMBER] [-end NUMBER] 
 ```
