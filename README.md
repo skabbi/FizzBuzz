@@ -1,8 +1,7 @@
 # FizzBuzz
 
 ## Introduction
-So I set out to develop questions that can identify this kind of developer and came up with a class of questions I call “FizzBuzz Questions” named after a game children often play (or are made to play) in schools in the UK.
-
+>So I set out to develop questions that can identify this kind of developer and came up with a class of questions I call “FizzBuzz Questions” named after a game children often play (or are made to play) in schools in the UK.
 In this game a group of children sit around in a group and say each number in sequence, except if the number is a multiple of three (in which case they say “Fizz”) or five (when they say “Buzz”). If a number is a multiple of both three and five they have to say “Fizz-Buzz”.
 
 https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/
