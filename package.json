@@ -1,0 +1,24 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Simple solution to FizzBuzz that allows any range of integers",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skabbi/FizzBuzz.git"
+  },
+  "keywords": [
+    "fizzbuzz",
+    "fizz",
+    "buzz"
+  ],
+  "author": "Skabbi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skabbi/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/skabbi/FizzBuzz#readme"
+}

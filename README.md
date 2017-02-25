@@ -1,9 +1,11 @@
 # FizzBuzz
 
 ## Introduction
-Fizz buzz is a group word game for children to teach them about division. Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz".
+So I set out to develop questions that can identify this kind of developer and came up with a class of questions I call “FizzBuzz Questions” named after a game children often play (or are made to play) in schools in the UK.
 
-https://en.wikipedia.org/wiki/Fizz_buzz
+In this game a group of children sit around in a group and say each number in sequence, except if the number is a multiple of three (in which case they say “Fizz”) or five (when they say “Buzz”). If a number is a multiple of both three and five they have to say “Fizz-Buzz”.
+
+https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/
 
 ## Usage
 This is a simple CLI program, written in node.js, that iterates through a given range of integers and prints out the appropriate response.
