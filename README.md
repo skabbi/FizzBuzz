@@ -15,8 +15,7 @@ $ node fizzbuzz.js [-start NUMBER] [-end NUMBER]
 Default number for start is 0.
 Default number for end is 100.
 
-
-#### Example restult
+#### Example result
 
 ```
 $ node fizzbuzz.js -start -10 -end 10
